@@ -36,6 +36,11 @@ Use the same parameters and training steps for each model. This is necessary to 
 
 Finally, use the testing data to evaluate each model and compare the performance.
 
+![image](https://user-images.githubusercontent.com/98990090/173154089-69e5db26-46e3-42f4-886c-f7dbf323f566.png)
+
+![image](https://user-images.githubusercontent.com/98990090/173154003-e1568cb4-150b-46ce-ac21-5ef33d8b569b.png)
+
+
 Use the above to answer the following:
 
 #### Which model has a lower loss?
